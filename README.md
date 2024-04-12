@@ -9,7 +9,7 @@ I'm Yaswanth Naga Mahesh Nandigam.I'm currently on an exciting journey learning 
   
 - 🌱 I’m currently learning
   - React and it's Ecosystem
-  - React's Virtual DOM works and its role in optimizing performance
+  - Working of React's Virtual DOM and its role in optimizing performance
   - Dive into React Hooks, such as useState and useEffect
   - Modern Javascript
 - 👯 I’m looking to collaborate on
@@ -19,3 +19,6 @@ I'm Yaswanth Naga Mahesh Nandigam.I'm currently on an exciting journey learning 
 - 📫 How to reach me:
   - https://www.linkedin.com/in/yaswanth-nandigam-54005517a/
   - yaswanthnandigam7@gmail.com
+- 📈 My GitHub progress
+  - Keep an eye on my GitHub to track my progress on upcoming projects utilizing React and Spring
+- 🚀 Stay Tuned for more updates
