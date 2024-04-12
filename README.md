@@ -5,8 +5,7 @@ I'm Yaswanth Naga Mahesh Nandigam.I'm currently on an exciting journey learning 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
-##React and it's Ecosystem
+- 🔭 I’m currently working on **React and it's Ecosystem**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
