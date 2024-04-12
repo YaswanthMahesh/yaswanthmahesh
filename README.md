@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Yaswanth Naga Mahesh Nandigam.I'm currently on an exciting journey learning React, Spring Boot, and state management! I'm diving into the world of full-stack development, aiming to master these technologies to create powerful and efficient web applications
 
 <!--
 **YaswanthMahesh/yaswanthmahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
